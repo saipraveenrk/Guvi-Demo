@@ -5,3 +5,4 @@ This line is from child branch 1
 This line is from child branch 2
 This line is from child branch 3
 This line is from child branch 4
+This line is from child branch 5
