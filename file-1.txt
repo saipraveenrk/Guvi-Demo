@@ -1,5 +1,7 @@
 this is line 1
-
 This is second line
-
 This is third line
+This line is from master branch
+This line is from master branch
+This line is from master branch
+This line is from master branch
